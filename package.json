@@ -1,0 +1,22 @@
+{
+  "name": "contosa",
+  "version": "1.0.0",
+  "description": "Contoso is a multinational company has their 12 Offices all over world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaibhavVDeshmukh/contosa.git"
+  },
+  "author": "Vaibhav_Deshmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaibhavVDeshmukh/contosa/issues"
+  },
+  "homepage": "https://github.com/VaibhavVDeshmukh/contosa#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
